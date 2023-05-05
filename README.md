@@ -8,6 +8,5 @@ In my sessions, you will learn to analyze data using Python and Jupyter notebook
 
 [![Check out the website for the camp](./2023%20Logo%20final.jpg)](https://uca.edu/steminstitute/summer-stem-academy/)
 
-[Check out the website for the camp](https://uca.edu/steminstitute/summer-stem-academy/) 
 
 📫 How to reach me ptalley2@uca.edu
