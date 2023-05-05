@@ -1,4 +1,4 @@
-# SummerSTEMUCA
+# Summer STEM Academy at UCA - Data Analysis and Visualization
 
 Welcome to the Summer STEM Academy at UCA!
 
