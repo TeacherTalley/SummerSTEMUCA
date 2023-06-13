@@ -10,7 +10,7 @@ In my sessions, you will learn to analyze data using Python and Jupyter notebook
 
 [Student Data Sets](https://drive.google.com/drive/folders/1vAnlchRSLpuAf2QAV5eYwtK5YpATmz6E?usp=drive_link)
 
-[Presentations](https://drive.google.com/drive/folders/1vAnlchRSLpuAf2QAV5eYwtK5YpATmz6E?usp=drive_link)
+[Presentations](https://docs.google.com/presentation/d/1wlItqcrnZ6bk1GAgfFeOPMy0vR4lfff4PHUOG41JK98/edit?usp=sharing)
 
 
 
